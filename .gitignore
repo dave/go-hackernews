@@ -1,5 +1,6 @@
 node_modules/
 .DS_Store
 **/*.DS_Store
-*_reactGen.go
 build/assets/scripts/analytics.js
+*.iml
+.idea/
