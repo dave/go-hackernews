@@ -53,14 +53,14 @@ func (f PageNavDef) Render() react.Element {
 		)
 	} else {
 		prevLink = react.A(
-			&react.AProps{Href: "/#/" + props.StoryType + "/" + strconv.Itoa(props.CurrPage-1)},
+			&react.AProps{Href: "#/" + props.StoryType + "/" + strconv.Itoa(props.CurrPage-1)},
 			react.S("< prev"),
 		)
 	}
 
 	if props.NumStories == 30 {
 		nextLink = react.A(
-			&react.AProps{Href: "/#/" + props.StoryType + "/" + strconv.Itoa(props.CurrPage+1)},
+			&react.AProps{Href: "#/" + props.StoryType + "/" + strconv.Itoa(props.CurrPage+1)},
 			react.S("more >"),
 		)
 	} else {
