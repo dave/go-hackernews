@@ -2,7 +2,7 @@
 <browserconfig>
     <msapplication>
         <tile>
-            <square150x150logo src="/build/assets/icons/mstile-150x150.png"/>
+            <square150x150logo src="https://rawcdn.githack.com/dave/go-hackernews/8578337b8b7c1d7dffc84c86f8b04bb660d81a1a/build/assets/icons/mstile-150x150.png"/>
             <TileColor>#ffffff</TileColor>
         </tile>
     </msapplication>

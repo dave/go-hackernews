@@ -3,17 +3,17 @@
     "short_name": "Go HN",
     "icons": [
         {
-            "src": "/assets/icons/android-chrome-192x192.png",
+            "src": "https://rawcdn.githack.com/dave/go-hackernews/8578337b8b7c1d7dffc84c86f8b04bb660d81a1a/buildhttps://rawcdn.githack.com/dave/go-hackernews/8578337b8b7c1d7dffc84c86f8b04bb660d81a1a/build/assets/icons/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
         },
         {
-            "src": "/assets/icons/android-chrome-256x256.png",
+            "src": "https://rawcdn.githack.com/dave/go-hackernews/8578337b8b7c1d7dffc84c86f8b04bb660d81a1a/buildhttps://rawcdn.githack.com/dave/go-hackernews/8578337b8b7c1d7dffc84c86f8b04bb660d81a1a/build/assets/icons/android-chrome-256x256.png",
             "sizes": "256x256",
             "type": "image/png"
         },
         {
-            "src": "/assets/icons/android-chrome-512x512.png",
+            "src": "https://rawcdn.githack.com/dave/go-hackernews/8578337b8b7c1d7dffc84c86f8b04bb660d81a1a/buildhttps://rawcdn.githack.com/dave/go-hackernews/8578337b8b7c1d7dffc84c86f8b04bb660d81a1a/build/assets/icons/android-chrome-512x512.png",
             "sizes": "512x512",
             "type": "image/png"
         }
