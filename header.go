@@ -61,7 +61,7 @@ func (f HeaderDef) renderNav() *react.NavElem {
 	links := []react.Element{
 		react.A(
 			&react.AProps{Href: "#/"},
-			react.Img(&react.ImgProps{Src: "assets/logo.png", ClassName: "logo", Alt: "Golang logo"}),
+			react.Img(&react.ImgProps{Src: "https://rawcdn.githack.com/dave/go-hackernews/8578337b8b7c1d7dffc84c86f8b04bb660d81a1a/build/assets/logo.png", ClassName: "logo", Alt: "Golang logo"}),
 		),
 		f.genLink("Top", "#/news/1", "news"),
 		f.genLink("New", "#/newest/1", "newest"),
